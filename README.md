@@ -1,4 +1,8 @@
-# vue-webpack-boilerplate
+# vue-webpack-boilerplate (Readable)
+
+Customized for improved readability.
+
+---
 
 > A full-featured Webpack setup with hot-reload, lint-on-save, unit testing & css extraction.
 
