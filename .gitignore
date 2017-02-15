@@ -1,3 +1,15 @@
+# Editors
+*~
+*.sw[op]
+.idea/
+
+# Python
+*.py[cod]
+__pycache__/
+
+# Node
 node_modules
+
+# Misc.
 .DS_Store
 docs/_book
